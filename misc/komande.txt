@@ -1,0 +1,6 @@
+sudo su
+etf
+cp ./assembler /bin/assembler
+isto i za linker i emulator
+chmod +x ./start.sh
+./start sh
